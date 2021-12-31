@@ -4,10 +4,10 @@ Currently this only has a calculator to convert RPM and time on an exercise bike
 
 ## RPM to Miles Converter
 
-<form action="#" method="post" id="rpm-calc">
- RPM:</br>
- <input type="number" name="rpm" />ß
- Time in minutes:</br>
+<form action="" method="post" id="rpm-calc">
+ RPM:
+ <input type="number" name="rpm" />
+ Time in minutes:
  <input type="number" name="time" />
  <input type="submit" value="Submit" onClick="calcMiles()">
 </form>
